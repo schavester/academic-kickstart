@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-04-20T02:15:00Z
-draft = true
 featured = false
 projects = []
 subtitle = "What I think of the world"
